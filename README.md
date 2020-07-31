@@ -13,7 +13,7 @@
 
 ### About Me
 
-- 👨🏽‍💻 I work in [FlipFit](https://flipfit.com/)
+- 👨🏽‍💻 I'm currently working for [FlipFit](https://flipfit.com/)
 - 🌱 I’m currently learning Objective-C
 
 
