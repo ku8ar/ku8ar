@@ -1,5 +1,4 @@
 ## Hi, I'm Kuba! <img src="https://github.com/ku8ar/ku8ar/blob/master/Hi.gif" width="30px"></h2>
-
 <a href="https://www.linkedin.com/in/juszczykjakub/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -15,7 +14,7 @@
 ### About Me
 
 - 👨🏽‍💻 I work in [FlipFit](https://flipfit.com/)
-- 🌱 I’m currently learning Objective-C & Swfit
+- 🌱 I’m currently learning Objective-C
 
 
 ### My Loves
